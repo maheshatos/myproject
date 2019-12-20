@@ -1,1 +1,1 @@
-console.log('Hello .. I am js file');
+console.log('Hello .. I am sample js file');
